@@ -21,14 +21,13 @@ f) 2,10, 12, 16, 17, 18, 19, _20_
  2- Desligo ele e ligo outro.
  Segunda Visita
  1- Entro na sala 
- 2- Se uma lampada estiver acesso, o interruptor que eu liguei primeiro controla essa lampada.
- 3- Se uma lampada estiver apagada e ainda estiver quente, o interruptor que eu ligui e desliguei controla 
+ 2- Se uma lampada estiver acessa, o interruptor que eu liguei primeiro controla essa lampada.
+ 3- Se uma lampada estiver apagada e ainda estiver quente, o interruptor que eu liguei e desliguei controla 
  essa lampada.
  4- Se a lampada estiver apagada e fria, o interruptor que eu nao liguei controla essa lampada.
 
-Assim resolvendo o problema. (Teste realizado na pratica kkk)
+Assim resolvendo o problema.
 
-5) 
 
  
 
